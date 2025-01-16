@@ -13,6 +13,8 @@ tailwind.config = {
           plColor: '#F5F1F9',
           ycolor: '#FEF8E4',
           lColor: '#19153D',
+          paraColor: '#FFFFFF',
+
         },
         //color
         //container
@@ -33,6 +35,8 @@ tailwind.config = {
             whatDoWeDoBg: "url('./images/What We Do_.png')",
             planBg: "url('./images/choosetherightplan.png')",
             worksBg: "url('./images/Selected Works.png')",
+            testimonalBg: "url('./images/testimonal.png')",
+            selectedBg: "url('./images/pic100.png')",
           },
         //background image
         //Font size
